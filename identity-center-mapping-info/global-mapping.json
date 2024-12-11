@@ -1,6 +1,6 @@
 [
     {
-        "GlobalGroupName": "UserGroup1",
+        "GlobalGroupName": "AWSAccountFactory",
         "PermissionSetName": [
             "1-example-admin"
         ],
