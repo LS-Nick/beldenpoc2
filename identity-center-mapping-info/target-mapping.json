@@ -1,6 +1,6 @@
 [
    {
-      "TargetGroupName":"UserGroup2(read-only)",
+      "TargetGroupName":"AWSAccountFactory",
       "PermissionSetName":[
          "2-example-readonly"
       ],
